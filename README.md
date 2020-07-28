@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ReactJS on [Imersion React](https://www.alura.com.br/imersao-react)
+
 <!--
 **adermanjr/adermanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
