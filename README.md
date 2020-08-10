@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ReactJS on [Imersion React](https://www.alura.com.br/imersao-react)
+🌱 Then you will know the truth, and the truth will set you free. John 8.32
 
 <!--
 **adermanjr/adermanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
