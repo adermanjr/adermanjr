@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Then you will know the truth, and the truth will set you free. John 8.32
+🌱 Then you will know the truth, and the truth will set you free. <i>John 8.32</i>
 
 <!--
 **adermanjr/adermanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
